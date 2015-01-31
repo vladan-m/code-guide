@@ -1,2 +1,2 @@
-# code-guide
-Code guide for developing durable HTML, CSS and SASS
+# Code Guide
+Best practices for developing flexible HTML, CSS and SASS
